@@ -1,0 +1,31 @@
+{
+    "name": "jt400-memcached",
+    "version": "0.0.1",
+    "description": "Node modules jt400 with memcached implementation",
+    "main": "index.js",
+    "dependencies": {
+        "jt400": "0.0.1",
+        "memcached": "0.2.6"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/paulomcnally/node-jt400-memcached.git"
+    },
+    "directories": {
+        "lib": "lib"
+    },
+    "keywords": [
+        "as400",
+        "IBM",
+        "java",
+        "db2",
+        "memcached"
+    ],
+    "author": {
+        "name": "Paulo McNally",
+        "email": "paulomcnally@gmail.com"
+    },
+    "bugs": {
+        "url": "https://github.com/paulomcnally/node-jt400-memcached/issues"
+    }
+}
